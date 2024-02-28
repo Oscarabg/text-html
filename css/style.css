@@ -1,0 +1,33 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+nav ul {
+   margin-top: 20px;
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+   list-style: none;
+   background-color: blue;
+}
+
+nav ul li{
+   color: #fff;
+   font-size: 1.3rem;
+}
+
+.cl-vn{
+   margin-top: 50px;
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+}
+.cl-img img{
+   width: 300px;
+
+}
+.cl-txt{
+   width: 50%;
+}
